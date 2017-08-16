@@ -16,6 +16,7 @@ func a_append_err(){
 	var a [2]int
 	// a = append(a, 1)
 	fmt.Println(a)
+	
 }
 
 
